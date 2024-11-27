@@ -68,7 +68,7 @@ Le programme inclut des fonctionnalités telles que :
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/FranckJudes/Test-Unitaire
-   cd test-logiciel
+   cd Test-Unitaire
    ```
 
 2. Compilez les fichiers Java :
